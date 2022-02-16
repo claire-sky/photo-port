@@ -5,11 +5,11 @@ exports[`About component matches snapshot DOM node structure 1`] = `
   <section
     class="my-5"
   >
-    <hi
+    <h1
       id="about"
     >
       Who am I?
-    </hi>
+    </h1>
     <img
       alt="cover"
       class="my-2"
